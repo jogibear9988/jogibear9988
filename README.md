@@ -23,4 +23,5 @@ At least I also migrated many WPF Librarys to github before the shutdown of Code
 If you want to support what I do, you can:
 * [Sponsor me](https://github.com/sponsors/jogibear9988/) 💪🏻
 * [PayPal me](https://paypal.me/jochenkuehner) 💸
+* [Patreon](patreon.com/jogibear9988)
 * [Hire me](mailto:jochen.kuehner@gmx.de) 💼
