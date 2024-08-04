@@ -6,3 +6,4 @@
 - https://github.com/GoogleChromeLabs/ProjectVisBug - Chrome Demo for element selection
 - https://xlayers.dev/#/home - 3D view of HTML content
 - https://grapesjs.com/ - wysiwyg designer
+- https://github.com/daybrush - animation farmework. (https://github.com/daybrush/moveable wrapper for resizing, rotateting, ...)
