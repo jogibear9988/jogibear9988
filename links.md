@@ -17,3 +17,4 @@
 
 ## C# and SQL
 - https://github.com/ycherkes/OrcaSql Native MsSQL database Format Driver
+- blog pages about this: https://improve.dk/introducing-orcamdf/ https://improve.dk/deciphering-a-sql-server-data-page/
