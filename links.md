@@ -10,5 +10,10 @@
 
 - https://github.com/StudioCherno/Coral - embed c# as scripting lang (like mono but netcore)
 
+## C# and S7
+
 - https://github.com/bonk-dev/HarpoS7 Encryption of S7 Communication (also old one)
 - https://github.com/thomas-v2/S7CommPlusDriver New S7 Protocol
+
+## C# and SQL
+- https://github.com/ycherkes/OrcaSql Native MsSQL database Format Driver
