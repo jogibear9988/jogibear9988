@@ -24,3 +24,4 @@
 - https://github.com/nauful/LibUA
 - https://github.com/OPCFoundation/UA-.NETStandard
 - https://github.com/freeopcua
+- https://github.com/convertersystems/opc-ua-samples
